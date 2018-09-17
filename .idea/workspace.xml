@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="938d6b4a-3b32-4d82-8736-df49d8c619c7" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/04_quicksort/golang/02_quick_sort.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/05_hash_tables/golang/hash_table.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/05_hash_tables/php/01_check_voter.php" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/introduction/golang/BinarySearch.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/introduction/php/binary_search.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/quicksort/golang/Recursive_count.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/quicksort/golang/Recursive_max.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/quicksort/golang/Recursive_sum.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/quicksort/golang/loop_sum.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/quicksort/golang/quickSort.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/quicksort/php/loop_sum.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/quicksort/php/quickSort.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/quicksort/php/recursive_count.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/quicksort/php/recursive_max.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recursion/Golang/Factorial.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recursion/Golang/countdown.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recursion/php/countdown.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/recursion/php/factirual.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/selection_sort/golang/01_select_sort.go" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/selection_sort/php/01_select_sort.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/selection_sort/php/02_select_sort.php" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Factorial.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_recursion/Golang/Factorial.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="countdown.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_recursion/Golang/countdown.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hash_table.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05_hash_tables/golang/hash_table.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding>
+                <element signature="e#14#72#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02_quick_sort.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04_quicksort/golang/02_quick_sort.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.11/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/recursion/Golang/Factorial.go" />
+        <option value="$PROJECT_DIR$/quicksort/php/loop_sum.php" />
+        <option value="$PROJECT_DIR$/quicksort/php/recursive_count.php" />
+        <option value="$PROJECT_DIR$/quicksort/php/recursive_max.php" />
+        <option value="$PROJECT_DIR$/quicksort/php/quickSort.php" />
+        <option value="$PROJECT_DIR$/quicksort/golang/Recursive_sum.go" />
+        <option value="$PROJECT_DIR$/quicksort/golang/Recursive_count.go" />
+        <option value="$PROJECT_DIR$/quicksort/golang/Recursive_max.go" />
+        <option value="$PROJECT_DIR$/quicksort/golang/quickSort.go" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/05_hash_tables/php/check_voter.go" />
+        <option value="$PROJECT_DIR$/05_hash_tables/php/check_voter.php" />
+        <option value="$PROJECT_DIR$/05_hash_tables/php/01_check_voter.php" />
+        <option value="$PROJECT_DIR$/05_hash_tables/golang/hash_table.go" />
+        <option value="$PROJECT_DIR$/04_quicksort/golang/02_quick_sort.go" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1280" />
+    <option name="y" value="-257" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="04_quicksort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="04_quicksort" type="462c0819:PsiDirectoryNode" />
+              <item name="golang" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build Recursive_max.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/quicksort/golang/Recursive_max.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build Recursive_sum.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/quicksort/golang/Recursive_sum.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build hash_table.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/05_hash_tables/golang/hash_table.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build loop_sum.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/quicksort/golang/loop_sum.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build quickSort.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/quicksort/golang/quickSort.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Go Build.go build Recursive_max.go" />
+      <item index="1" class="java.lang.String" itemvalue="Go Build.go build Recursive_sum.go" />
+      <item index="2" class="java.lang.String" itemvalue="Go Build.go build hash_table.go" />
+      <item index="3" class="java.lang.String" itemvalue="Go Build.go build loop_sum.go" />
+      <item index="4" class="java.lang.String" itemvalue="Go Build.go build quickSort.go" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="938d6b4a-3b32-4d82-8736-df49d8c619c7" name="Default" comment="" />
+      <created>1537169145100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537169145100</updated>
+      <workItem from="1537169150361" duration="622000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5214000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1280" y="-257" width="1920" height="1057" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16986156" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32848233" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991684" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32746115" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.171459" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991684" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/introduction/golang/BinarySearch.go" />
+    <entry file="file://$PROJECT_DIR$/introduction/php/binary_search.php" />
+    <entry file="file://$PROJECT_DIR$/selection_sort/php/01_select_sort.php" />
+    <entry file="file://$PROJECT_DIR$/selection_sort/php/02_select_sort.php" />
+    <entry file="file://$PROJECT_DIR$/introduction/php/binary_search" />
+    <entry file="file://$PROJECT_DIR$/introduction/php/binary_search.php" />
+    <entry file="file://$PROJECT_DIR$/introduction/golang/BinarySearch.go" />
+    <entry file="file://$PROJECT_DIR$/introduction/php/binary_search.php" />
+    <entry file="file://$PROJECT_DIR$/introduction/golang/BinarySearch.go" />
+    <entry file="file://$PROJECT_DIR$/introduction/php/binary_search" />
+    <entry file="file://$PROJECT_DIR$/introduction/golang/BinarySearch.go" />
+    <entry file="file://$PROJECT_DIR$/introduction/php/binary_search.php" />
+    <entry file="file://$PROJECT_DIR$/selection_sort/php/01_select_sort.php" />
+    <entry file="file://$PROJECT_DIR$/introduction/php/binary_search.php" />
+    <entry file="file://$PROJECT_DIR$/introduction/golang/BinarySearch.go" />
+    <entry file="file://$PROJECT_DIR$/introduction/php/binary_search" />
+    <entry file="file://$PROJECT_DIR$/introduction/golang/BinarySearch.go" />
+    <entry file="file://$PROJECT_DIR$/introduction/php/binary_search.php" />
+    <entry file="file://$PROJECT_DIR$/selection_sort/php/01_select_sort.php" />
+    <entry file="file://$PROJECT_DIR$/introduction/php/binary_search" />
+    <entry file="file://$PROJECT_DIR$/introduction/php/binary_search.php" />
+    <entry file="file://$PROJECT_DIR$/introduction/golang/BinarySearch.go" />
+    <entry file="file://$PROJECT_DIR$/introduction/php/binary_search.php" />
+    <entry file="file://$PROJECT_DIR$/introduction/golang/BinarySearch.go" />
+    <entry file="file://$PROJECT_DIR$/introduction/php/binary_search" />
+    <entry file="file://$PROJECT_DIR$/introduction/golang/BinarySearch.go" />
+    <entry file="file://$PROJECT_DIR$/introduction/php/binary_search.php" />
+    <entry file="file://$PROJECT_DIR$/selection_sort/php/01_select_sort.php" />
+    <entry file="file://$PROJECT_DIR$/selection_sort/php/02_select_sort.php" />
+    <entry file="file://$PROJECT_DIR$/recursion/php/countdown.php" />
+    <entry file="file://$PROJECT_DIR$/recursion/php/factirual.php" />
+    <entry file="file://$PROJECT_DIR$/recursion/Golang/countdown.go" />
+    <entry file="file://$PROJECT_DIR$/recursion/Golang/Factorial.go" />
+    <entry file="file://$PROJECT_DIR$/quicksort/php/recursive_count.php" />
+    <entry file="file://$PROJECT_DIR$/quicksort/php/recursive_max.php" />
+    <entry file="file://$PROJECT_DIR$/quicksort/php/quickSort.php" />
+    <entry file="file://$PROJECT_DIR$/selection_sort/golang/01_select_sort.go" />
+    <entry file="file://$PROJECT_DIR$/quicksort/php/loop_sum.php" />
+    <entry file="file://$PROJECT_DIR$/quicksort/golang/loop_sum.go" />
+    <entry file="file://$PROJECT_DIR$/quicksort/golang/Recursive_sum.go" />
+    <entry file="file://$PROJECT_DIR$/quicksort/golang/Recursive_count.go" />
+    <entry file="file://$PROJECT_DIR$/quicksort/golang/Recursive_max.go" />
+    <entry file="file://$PROJECT_DIR$/quicksort/golang/quickSort.go" />
+    <entry file="file://$PROJECT_DIR$/03_recursion/Golang/Factorial.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_recursion/Golang/countdown.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_hash_tables/php/check_voter.go" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_hash_tables/php/check_voter.php" />
+    <entry file="file://$PROJECT_DIR$/05_hash_tables/php/01_check_voter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_hash_tables/golang/hash_table.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_quicksort/golang/02_quick_sort.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
